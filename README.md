@@ -52,19 +52,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=codenonstop-technology&show_icons=true&theme=tokyonight" />
+  <img width="95%" src="https://github-readme-stats.vercel.app/api?username=codenonstop-technology&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenonstop-technology&layout=compact&theme=tokyonight" />
+  <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenonstop-technology&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=codenonstop-technology&theme=tokyonight" />
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=codenonstop-technology&theme=tokyonight" />
 </p>
-
----
-## 🔥 Motto
 
 <p align="center">
   <b>Code Non Stop 🚀 | Build Real Projects | Become Unstoppable</b>
